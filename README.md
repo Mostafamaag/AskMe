@@ -12,7 +12,7 @@ People ask questions and others answers them
 ## User Operations
   
   - Print questions: From you, To you, Feed Questions
-  - Ask and answer questions.
+  - Ask and answer questions
   - Delete a question (which might be a thread)
   
 ## Design
