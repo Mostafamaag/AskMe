@@ -4,7 +4,7 @@ People ask questions and others answers them
 
 ## Features
   
-  - Login/Sign up/Sign Out
+  - Log in / Log out / Sign up
   - Files-based system
   - Multiple users can use it in same time (parallel)
   - System support threads questions
